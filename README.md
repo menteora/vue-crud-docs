@@ -2,6 +2,7 @@
 ## Vuex
 - [Simple Todo - **Tutorial**](https://codeburst.io/build-a-simple-todo-app-with-vue-js-1778ae175514)
 - [Vuex Crud - **Repository**](https://github.com/JiriChara/vuex-crud)
+- [Dynamic Modules with Vuex and Vue](https://codeburst.io/dynamic-modules-with-vuex-and-vue-b9c481ca792) - [**Repository**](https://github.com/cdbkr/vue-dynamic-modules)
 
 ## Firebase
 - [Best Practices: Arrays in Firebase](https://firebase.googleblog.com/2014/04/best-practices-arrays-in-firebase.html)
